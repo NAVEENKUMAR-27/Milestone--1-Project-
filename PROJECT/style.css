@@ -1,0 +1,113 @@
+
+    .mar{
+        margin-left:100px;
+    }
+
+    /* navigation */
+
+    span{
+        color:yellow;
+        font-weight: bold;
+        font-size:10px;
+    }
+
+    .ser{
+        margin-left:100px;
+        border-radius:50px !important;
+    }
+   .btn-s{
+    margin-left:100px;
+   }
+   .shop{
+    margin-left:100px;
+    font-size: 25px;
+   }
+
+
+
+    .mar-sign{
+        margin-left:700px;
+    }
+    .bg-nav{
+        background-color: rgb(35, 117, 145);
+    }
+    .nav-mar{
+        margin-left:50px;
+    }
+    .bg-nav-1{
+        background-color: rgb(7, 24, 64);
+        color:white;
+        font-weight: bold;
+
+    }
+    .img-size{
+        height:250px;
+        width:200px;
+    }
+    .mar-r{
+        margin-right:500px
+    }
+    .h{
+        font-weight:bold;
+    }
+    .img-size-brand{
+        height:400px;
+        width:200px;
+    }
+    /*  Top Deals on Mobiles & Electronics */
+        
+    .img-pro{
+        width:200px;
+        box-shadow: 0 0 0 1px rgb(221, 19, 137);
+        position: relative;
+        z-index: 0;
+        transition: 0.3s all;
+    }
+    .img-pro:hover{
+        z-index: 1;
+        box-shadow: 0 8px 50px rgba(221, 19, 137);
+        transform: rotateY(0deg);
+    }
+
+
+
+            /* Trending Brands */
+    .img{
+        width:200px;
+        box-shadow: 0 0 0 1px rgb(39, 39, 40);
+        position: relative;
+        z-index: 0;
+        transition: 0.3s all;
+    }
+    .img:hover{
+        z-index: 1;
+        box-shadow: 0 8px 100px rgba(67, 177, 213, 0.2);
+        transform: rotateY(0deg);
+    }
+
+            /* Shop From Top Categories */
+    .img-top{
+        width:200px;
+        box-shadow: 0 0 0 1px rgb(37, 36, 36);
+        position: relative;
+        z-index: 0;
+        transition: 0.3s all;
+    }
+    .img-top:hover{
+        z-index: 1;
+        box-shadow: 0 8px 100px rgba(58, 235, 235, 0.2);
+        transform: rotateY(50deg);
+    }
+
+    .img-size-brand{
+    height: 150;
+    }
+
+    .footer{
+        margin-left: 100px;
+    }
+    .bor-top{
+        border-top: 5px solid black;
+        margin-left: 100px;
+        margin-top: 50px;
+    }
